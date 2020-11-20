@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\Tarde\Exercicio\bin\Debug\netcoreapp3.1\Revisao 2.exe
+C:\Users\dev\Desktop\Tarde\Exercicio\bin\Debug\netcoreapp3.1\Revisao 2.deps.json
+C:\Users\dev\Desktop\Tarde\Exercicio\bin\Debug\netcoreapp3.1\Revisao 2.runtimeconfig.json
+C:\Users\dev\Desktop\Tarde\Exercicio\bin\Debug\netcoreapp3.1\Revisao 2.runtimeconfig.dev.json
+C:\Users\dev\Desktop\Tarde\Exercicio\bin\Debug\netcoreapp3.1\Revisao 2.dll
+C:\Users\dev\Desktop\Tarde\Exercicio\bin\Debug\netcoreapp3.1\Revisao 2.pdb
+C:\Users\dev\Desktop\Tarde\Exercicio\obj\Debug\netcoreapp3.1\Revisao 2.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\Tarde\Exercicio\obj\Debug\netcoreapp3.1\Revisao 2.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\Tarde\Exercicio\obj\Debug\netcoreapp3.1\Revisao 2.AssemblyInfo.cs
+C:\Users\dev\Desktop\Tarde\Exercicio\obj\Debug\netcoreapp3.1\Revisao 2.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\Tarde\Exercicio\obj\Debug\netcoreapp3.1\Revisao 2.dll
+C:\Users\dev\Desktop\Tarde\Exercicio\obj\Debug\netcoreapp3.1\Revisao 2.pdb
+C:\Users\dev\Desktop\Tarde\Exercicio\obj\Debug\netcoreapp3.1\Revisao 2.genruntimeconfig.cache
