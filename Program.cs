@@ -24,10 +24,13 @@ namespace Revisao_2
                 nomes[i] = Console.ReadLine();
                 
                 Console.WriteLine("Digite as notas do aluno: ");
-                nota1[i] = float.Parse(Console.ReadLine());
-                nota2[i] = float.Parse(Console.ReadLine());
-                nota3[i] = float.Parse(Console.ReadLine());
-                nota4[i] = float.Parse(Console.ReadLine());
+            
+                while(!float.TryParse(Console.ReadLine(), out nota1[i]));
+                while(!float.TryParse(Console.ReadLine(), out nota2[i]));
+                while(!float.TryParse(Console.ReadLine(), out nota3[i]));
+                while(!float.TryParse(Console.ReadLine(), out nota4[i]));
+               
+
                 Console.WriteLine("--------------------------------------");
                 
             }
