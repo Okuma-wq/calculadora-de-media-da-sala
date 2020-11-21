@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dev\\Desktop\\Tarde\\Exercicio\\Revisao 2.csproj": {}
+    "C:\\Users\\pedro\\Desktop\\Projetos\\calculadora-de-media-da-sala\\Revisao 2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dev\\Desktop\\Tarde\\Exercicio\\Revisao 2.csproj": {
+    "C:\\Users\\pedro\\Desktop\\Projetos\\calculadora-de-media-da-sala\\Revisao 2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dev\\Desktop\\Tarde\\Exercicio\\Revisao 2.csproj",
+        "projectUniqueName": "C:\\Users\\pedro\\Desktop\\Projetos\\calculadora-de-media-da-sala\\Revisao 2.csproj",
         "projectName": "Revisao 2",
-        "projectPath": "C:\\Users\\dev\\Desktop\\Tarde\\Exercicio\\Revisao 2.csproj",
-        "packagesPath": "C:\\Users\\dev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dev\\Desktop\\Tarde\\Exercicio\\obj\\",
+        "projectPath": "C:\\Users\\pedro\\Desktop\\Projetos\\calculadora-de-media-da-sala\\Revisao 2.csproj",
+        "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pedro\\Desktop\\Projetos\\calculadora-de-media-da-sala\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\dev\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"

@@ -28,6 +28,7 @@ namespace Revisao_2
                 nota2[i] = float.Parse(Console.ReadLine());
                 nota3[i] = float.Parse(Console.ReadLine());
                 nota4[i] = float.Parse(Console.ReadLine());
+                Console.WriteLine("--------------------------------------");
                 
             }
 
@@ -36,7 +37,7 @@ namespace Revisao_2
                 float resultado = (nota1 + nota2 + nota3 + nota4) / 4;
                 return resultado;
             }
-
+            
             for (var i = 0; i < 10; i++)
             {
                 
@@ -55,7 +56,11 @@ namespace Revisao_2
             Console.WriteLine($"Número de aprovados: {aprovados}");
             Console.WriteLine($"Número de reprovados: {reprovados}");
             Console.WriteLine("--------------------------------------");
-            
+
+            float mediaDaSala = (media[0] + media[1] + media[2] + media[3] + media[4] + media[5] + media[6] + media[7] + media[8] + media[9]) / 10; 
+
+            Console.WriteLine($"A média da sala foi de {mediaDaSala}");
+            Console.WriteLine("--------------------------------------");
 
             
         }
